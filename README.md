@@ -5,3 +5,5 @@
 - The survey form is realised in HTML and CSS. 
 - It is made full responsive. 
 - For this challenge, I respected the various instructions given by FCC.
+
+You can see the result following this link : https://fcc-surveyform-us.netlify.app/
